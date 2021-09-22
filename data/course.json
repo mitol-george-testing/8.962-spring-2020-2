@@ -1,0 +1,28 @@
+{
+  "level": "",
+  "topics": [],
+  "instructors": {
+    "content": [
+      "239d3f09-230f-0e30-4255-cc85fa68b8c0",
+      "c36ae84f-55d9-4cc0-8e2c-8ca9cc8491ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "8-962-general-relativity-spring-2020"
+  },
+  "course_title": "General Relativity",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "8-962-general-relativity-spring-2020"
+  },
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
